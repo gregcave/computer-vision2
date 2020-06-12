@@ -1,3 +1,3 @@
 # computer-vision2
 
-A report containing various exercises on computer vision
+A report containing answers to various questions regarding computer vision
